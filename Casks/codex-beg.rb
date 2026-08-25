@@ -8,6 +8,7 @@ cask "codex-beg" do
   homepage "https://github.com/newchille/codex-beg"
 
   depends_on arch: :arm64
+  depends_on macos: ">= :big_sur"
 
   app "Codex BEG.app"
 end
