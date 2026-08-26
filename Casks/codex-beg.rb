@@ -1,6 +1,6 @@
 cask "codex-beg" do
-  version "0.1.3"
-  sha256 "8be1e3b6393013f66bc87b804b783e09bb901c1d57f096050b95e3ab968349f7"
+  version "0.1.4"
+  sha256 "83ec2a1b08e6c440bca1b0df282850669d114de52300c8c87cc29e322262fdb3"
 
   url "https://github.com/newchille/codex-beg/releases/download/v#{version}/Codex-BEG-#{version}-mac-arm64.dmg"
   name "Codex BEG"
